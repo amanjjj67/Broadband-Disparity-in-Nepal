@@ -1,0 +1,5 @@
+Title: Broadband Penetration Disparity Between Urban Kathmandu Valley and Rural Hill Districts of Nepal: Data Analysis and Infrastructure Solutions
+Author: Aman Jha
+Affiliation: Bachelor of Information Management (BIM), Tribhuvan University, Kathmandu, Nepal
+Date: July 2026
+Keywords: broadband penetration, digital divide, Nepal Telecommunications Authority, mesh networks, TV White Space, Starlink, rural connectivity
